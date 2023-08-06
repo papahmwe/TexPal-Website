@@ -1,0 +1,17 @@
+#everything_section,
+#get_started_section {
+    background-image: url('../assests/background-features.5f7a9ac9.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#frequently {
+    background-image: url('../assests/background-faqs.55d2e36a.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#priceCardImg {
+    border-radius: 1rem;
+}
